@@ -18,8 +18,9 @@ img{
 }
 h3{
  max-width:80%;
-  margin:auto;
-  padding-top:10px;
+ margin:auto;
+ padding-top:10px;
+ font-family: 'Chivo', sans-serif;
 }
 p{
   max-width:80%;
