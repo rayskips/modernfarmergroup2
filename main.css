@@ -3,7 +3,9 @@
  Hoping it will help out the guys writing our code.
  Feel free to change it so it's not just a bunch of articles about potatoes haha!
  Ill add the more links when we get going a little further.. :) */
-
+body {
+ font-family: georgia;
+}
 
 .rachaelssection{
   width:60%;
